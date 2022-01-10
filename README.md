@@ -1,7 +1,11 @@
-# Getting Started with Create React App
+# FIREGRAM
+An photo sharing web application made with react form youtube tutorial 
+https://youtu.be/vUe91uOx7R0
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Here users can upload their photos and view all the photos uploaded till now.
+Firebase firestorm is used for storing data and firebase storage for storing photos
 
+I have used Firbase v9 but in video they used firebase v8
 ## Available Scripts
 
 In the project directory, you can run:
