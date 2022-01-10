@@ -1,5 +1,5 @@
 # FIREGRAM
-An photo sharing web application made with react form youtube tutorial 
+An photo sharing web application made with react using youtube tutorial 
 https://youtu.be/vUe91uOx7R0
 
 Here users can upload their photos and view all the photos uploaded till now.
